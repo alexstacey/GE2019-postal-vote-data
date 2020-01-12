@@ -12,9 +12,10 @@ Contributions are welcome so if you have any of the missing data or would like t
 1. Check the data in the CSV file to see what data is missing - to avoid making duplicate requests or asking for data we already have. Let's not submit multiple requests to the same authorities.  
 2. Find the Freedom of Information email address or form on the website of the relevant council or authority.
 3. Submit a FOI request (template email below).
-4. (IMPORTANT) Edit the CSV file (by clicking on the pencil icon). Change the status of that constituency to "Asked" and submit the change. 
+4. (IMPORTANT) Edit the CSV file (by clicking on the pencil icon). Change the status of that constituency to "Asked" and submit the change. You'll need a Github account to do this. 
 5. When you receive a response, edit the CSV file again to add the missing data and submit another change.
 
+Feel free to send me a message if you get stuck. 
 
 ## FOI request email template
 Here is a template for a Freedom of Information email:

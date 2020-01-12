@@ -7,7 +7,7 @@ There has been some interest in postal vote data from the General Election in De
 The data can be viewed [here](https://github.com/alexstacey/GE2019-postal-vote-data/blob/master/GE2019-results.csv) or downloaded [here](https://raw.githubusercontent.com/alexstacey/GE2019-postal-vote-data/master/GE2019-results.csv).
 
 ## Help Wanted
-COntributions are welcome so if you have any of the missing data or would like to help gather some of it by submitting FOI requests to the relevant authority, you can do so in the following way:
+Contributions are welcome so if you have any of the missing data or would like to help gather some of it by submitting FOI requests to the relevant authority, you can do so in the following way:
 
 1. Check the data in the CSV file to see what data is missing - to avoid making duplicate requests or asking for data we already have. Let's not submit multiple requests to the same authorities.  
 2. Find the Freedom of Information email address or form on the website of the relevant council or authority.
@@ -35,4 +35,4 @@ Here is a template for a Freedom of Information email:
 ## Notes on the questions
 1 - The local authorities don't match up one-for-one with the voting constituencies. Some authorities have voting data for more than one and some seem to have partial data for a constituency. This question is to make it easier to match up.
 4 & 5 - I had asked these as a single question in my original FOI batch, but some people provided one or the other or both. This is probably a better way to ask. 
-6 - Most authorities won't have this info, but some seem to. If they provide it, please get in touch so we can figure out what to do with that data.
+6 - Most authorities won't have this info, but some seem to. If they provide it, please get in touch (DM via twitter @alexstacey is easiest) so we can figure out what to do with that data.

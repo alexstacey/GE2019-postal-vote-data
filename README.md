@@ -1,1 +1,3 @@
-# GE2019-postal-vote-data
+# GE2019 Postal Vote Data
+There has been some interest in postal vote data from the General Election in December 2019 so I started compiling some of it via FOI requests. I'm publishing it in case it is of use to any researchers or other interested people. Some of the data is messy and hard to process. The local authorities don't match up one-for-one with the voting constituencies. Some authorities have voting data for more than one and some seem to have partial data for a constituency. I've done my best with compiling this but it's a work in progress and I don't make any guarantees that its free of errors. I welcome contributions from anyone that wants to help by adding or checking data.
+

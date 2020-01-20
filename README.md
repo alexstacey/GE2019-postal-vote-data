@@ -1,39 +1,10 @@
 # GE2019 Postal Vote Data
 
-There has been some interest in postal vote data from the General Election in December 2019 so I started compiling some of it via Freedom Of Information requests. It's far from complete (there's data for about 100 of the 650 constituencies currently) but I'm publishing it in case it is of use to any researchers or other interested people or in case people want to help compiling it. Some of the data is messy and hard to process. I've done my best but it's a work in progress and I don't make any guarantees that it's free of errors. I welcome contributions from anyone that wants to help by adding or checking data.
+There has been some interest in postal vote data from the General Election in December 2019 so I started compiling some of it via Freedom Of Information requests. It's far from complete (there's data for about 160 of the 650 constituencies currently) but I'm publishing it in case it is of use to any researchers or other interested people or in case people want to help compiling it. Some of the data is messy and hard to process. I've done my best but it's a work in progress and I don't make any guarantees that it's free of errors. I welcome contributions from anyone that wants to help by adding or checking data.
 
 ---
 ## The Data
 The data can be viewed [here](https://github.com/alexstacey/GE2019-postal-vote-data/blob/master/GE2019-results.csv) or downloaded [here](https://raw.githubusercontent.com/alexstacey/GE2019-postal-vote-data/master/GE2019-results.csv).
 
-## Help Wanted
-Contributions are welcome so if you have any of the missing data or would like to help gather some of it by submitting FOI requests to the relevant authority, you can do so in the following way:
-
-1. Check the data in the CSV file to see what data is missing - to avoid making duplicate requests or asking for data we already have. Let's not submit multiple requests to the same authorities.  
-2. Find the Freedom of Information email address or form on the website of the relevant council or authority.
-3. Submit a FOI request (template email below).
-4. (IMPORTANT) Edit the CSV file (by clicking on the pencil icon). Change the status of that constituency to "Asked" and submit the change. You'll need a Github account to do this. 
-5. When you receive a response, edit the CSV file again to add the missing data and submit another change.
-
-Feel free to send me a message if you get stuck. 
-
-## FOI request email template
-Here is a template for a Freedom of Information email:
-
-> I would like to make an FOI request for voter data from the 12th December 2019 General Election. Specifically, I would like the following info:
-> 
-> 1) Name of constituency
-> 2) How many people were registered to vote by post in the constituency?
-> 3) How many postal votes were received?
-> 4) How many postal votes were marked as invalid due to the signature or DOB on the envelope?
-> 5) How many postal votes were marked as invalid due to problems with the ballot papers?
-> 6) What was the result of the postal vote by party?
-> 
-> In the case that your office administers more than one constituency, I would like the above information for each of the constituencies you administer.
-> 
-> I look forward to your reply.
-
-## Notes on the questions
-1 - The local authorities don't match up one-for-one with the voting constituencies. Some authorities have voting data for more than one and some seem to have partial data for a constituency. This question is to make it easier to match up.
-4 & 5 - I had asked these as a single question in my original FOI batch, but some people provided one or the other or both. This is probably a better way to ask. 
-6 - Most authorities won't have this info, but some seem to. If they provide it, please get in touch (DM via twitter @alexstacey is easiest) so we can figure out what to do with that data.
+## Want to help?
+Contributions are welcome so if you have any of the missing data or would like to help gather some of it by submitting FOI requests to the relevant authority. DM me on Twitter @alexstacey if you want to help.
